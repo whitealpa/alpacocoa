@@ -8,6 +8,8 @@ By whitealpa for CS50 Game Development Course 2024
 
 <p algin ="center"><img src ="images/alpacocoa01.png" width="500"></p>
 
+Video : https://www.youtube.com/watch?v=W_k5dkWe4Rk
+
 ## Introduction
 
 
